@@ -1,0 +1,28 @@
+{
+  "postData": [
+    {
+      "partName": "Engine",
+      "id": 1
+    },
+    {
+      "partName": "Tyre",
+      "id": 2
+    },
+    {
+      "partName": "Light",
+      "id": 3
+    },
+    {
+      "partName": "",
+      "id": 4
+    },
+    {
+      "partName": "Engine",
+      "id": 5
+    }
+  ],
+  "spareParts": [
+    {}
+  ],
+  "production": []
+}
